@@ -1,0 +1,17 @@
+{
+    "name": "pantaleonegiardino/project-work-1-php",
+    "autoload": {
+        "psr-4": {
+            "Pantaleonegiardino\\ProjectWork1Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LeoGiardino",
+            "email": "panto.giardino@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
